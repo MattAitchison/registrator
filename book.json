@@ -1,5 +1,4 @@
 {
-  "gitbook": "*",
   "structure": {
     "summary": "docs/index.md"
   },
