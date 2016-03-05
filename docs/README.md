@@ -1,11 +1,12 @@
 ## Table of Contents
 * [Read Me](/README.md)
 * User Guide
-  * [Quickstart](user/quickstart.md)
-  * [Run Reference](user/run.md)
-  * [Service Model](user/services.md)
-  * [Registry Backends](user/backends.md)
-  * [FAQ](user/faq.md)
+  * [Quickstart](/docs/user/quickstart.md)
+  * [Run Reference](/docs/user/run.md)
+  * [Service Model](/docs/user/services.md)
+  * [Registry Backends](/docs/user/backends.md)
+  * [FAQ](/docs/user/faq.md)
 * Developer Guide
-  * [Contributing Backends](dev/backends.md)
-  * [Staging Releases](dev/releases.md)
+  * [Contributing Backends](/docs/dev/backends.md)
+  * [Staging Releases](/docs/dev/releases.md)
+* [Change Log](/CHANGELOG.md)
