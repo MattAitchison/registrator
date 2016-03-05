@@ -6,8 +6,7 @@
         "edit-link",
         "prism",
         "-highlight",
-        "github",
-        "swibranch"
+        "github"
     ],
     "pluginsConfig": {
         "edit-link": {
