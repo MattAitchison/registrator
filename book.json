@@ -1,15 +1,21 @@
 {
-  "structure": {
-    "summary": "docs/README.md"
-  },
-  "plugins": ["edit-link", "prism", "-highlight", "github"],
-  "pluginsConfig": {
-    "edit-link": {
-      "base": "https://github.com/gliderlabs/registrator/tree/master",
-      "label": "Edit This Page"
+    "structure": {
+        "summary": "docs/README.md"
     },
-    "github": {
-      "url": "https://github.com/gliderlabs/registrator/"
+    "plugins": [
+        "edit-link",
+        "prism",
+        "-highlight",
+        "github",
+        "swibranch"
+    ],
+    "pluginsConfig": {
+        "edit-link": {
+            "base": "https://github.com/gliderlabs/registrator/tree/master",
+            "label": "Edit This Page"
+        },
+        "github": {
+            "url": "https://github.com/gliderlabs/registrator/"
+        }
     }
-  }
 }
