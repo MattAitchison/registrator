@@ -1,7 +1,6 @@
 {
-    "structure": {
-      "summary": "docs"
-    },
+    "root":"./docs",
+
     "plugins": [
         "edit-link",
         "prism",
