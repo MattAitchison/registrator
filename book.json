@@ -1,22 +1,22 @@
 {
-    "structure": {
-      "summary": "docs/SUMMARY.md",
-       "readme": "README.md"
-     },
-    },
-    "plugins": [
-        "edit-link",
-        "prism",
-        "-highlight",
-        "github"
-    ],
-    "pluginsConfig": {
-        "edit-link": {
-            "base": "https://github.com/gliderlabs/registrator/tree/master",
-            "label": "Edit This Page"
-        },
-        "github": {
-            "url": "https://github.com/gliderlabs/registrator/"
-        }
-    }
+	"structure": {
+		"summary": "docs/SUMMARY.md",
+		"readme": "README.md"
+
+	},
+	"plugins": [
+		"edit-link",
+		"prism",
+		"-highlight",
+		"github"
+	],
+	"pluginsConfig": {
+		"edit-link": {
+			"base": "https://github.com/gliderlabs/registrator/tree/master",
+			"label": "Edit This Page"
+		},
+		"github": {
+			"url": "https://github.com/gliderlabs/registrator/"
+		}
+	}
 }
