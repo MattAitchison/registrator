@@ -1,7 +1,7 @@
 {
 	"structure": {
 		"summary": "docs/SUMMARY.md",
-		"readme": "README.md"
+		"readme": "./README.md"
 	},
 	"plugins": [
 		"edit-link",
